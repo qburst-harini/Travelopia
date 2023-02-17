@@ -1,0 +1,27 @@
+{
+  "name": "travelopia",
+  "version": "1.0.0",
+  "description": "travelopia service",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qburst-harini/Travelopia.git"
+  },
+  "author": "Harini",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1",
+    "winston": "^3.8.2"
+  },
+  "bugs": {
+    "url": "https://github.com/qburst-harini/Travelopia/issues"
+  },
+  "homepage": "https://github.com/qburst-harini/Travelopia#readme"
+}
